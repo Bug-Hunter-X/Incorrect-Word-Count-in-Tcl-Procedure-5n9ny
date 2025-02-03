@@ -1,0 +1,2 @@
+# Tcl Word Count Bug
+This repository contains a Tcl procedure that attempts to count words in a string.  However, the procedure has a bug: it incorrectly counts words when multiple spaces are present in the input string.  The solution demonstrates a corrected version that handles multiple spaces correctly.
